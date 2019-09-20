@@ -5,7 +5,7 @@ Un rotulador de color por cada jugador
 Papel grande
 
 
-1. El juego se inicia con el jugador que posea de color azul, el cual realizará una círculo del tamaño que considere, siempre y cuando sea mayor de 20cm.
+1. El juego se inicia con el jugador que posea de color azul, el cual realizará una círculo (círculo matriz) del tamaño que considere, siempre y cuando sea mayor de 20cm.
 
 2. El juego consistirá en rellenar el circulo grande, con más círculos:
 
@@ -27,6 +27,10 @@ Papel grande
  
  - No puede haber 2 o más círculos del mismo color juntos.
  
- -No te puedes salir del círculo grande
+ - Los círculos interiores no se pueden salir del círculo grande
+ 
+ - Se rellanará toda la hoja de círculos matrices. 
+ 
+ - Un circulo de un color, no puede ser tocado más de tres veces por otro círculo de distinto color
  
  
