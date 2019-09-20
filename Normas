@@ -5,23 +5,26 @@ Un rotulador de color por cada jugador
 Papel grande
 
 
+1. El juego se inicia con el jugador que posea de color azul, el cual realizará una círculo del tamaño que considere, siempre y cuando sea mayor de 20cm.
 
+2. El juego consistirá en rellenar el circulo grande, con más círculos:
 
-  1.El jugador que posea el rotulador de color verde, dibujará un círculo de 1cm de diámetro.
+  2.1 El jugador que posea el rotulador de color verde, siempre dibujará un círculo de 1cm de diámetro.
  
-  2.El jugador que posea el rotulador de color rojo, dibujará un círculo de 3cm de diámetro.
+  2.2 El jugador que posea el rotulador de color rojo, siempre dibujará un círculo de 3cm de diámetro.
   
-  3.El jugador que posea el rotulador de color azul, dibujará un círculo de 5cm de diámetro.
+  2.3 El jugador que posea el rotulador de color azul, siempre dibujará un círculo de 5cm de diámetro.
   
-  4.El jugador que posea el rotulador de color negro, dibujará un círculo de 7cm de diámetro.
+  2.4 El jugador que posea el rotulador de color negro, siempre dibujará un círculo de 7cm de diámetro.
   
  
  
  
  
+ CONDICIONANTES:
  
- -Los círculos tienen que estar en tangencia, es decir, conectados entre si pero sin sobreponerse.
+ - Los círculos tienen que estar en tangencia, es decir, conectados entre si pero sin sobreponerse.
  
- -No puede haber 2 o más círculos del mismo color juntos.
+ - No puede haber 2 o más círculos del mismo color juntos.
  
- -No se pueden quedar espacios en blanco entre los círculos.
+ 
