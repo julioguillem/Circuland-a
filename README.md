@@ -36,3 +36,5 @@ Papel grande
  
  - Un circulo de un color, no puede ser tocado más de tres veces por otro círculo de distinto color
  
+
+
